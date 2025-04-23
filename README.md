@@ -1,3 +1,4 @@
+Development of a Neural Network for Tree Species Classification in University Garden
 🌿 Project Overview
 This project focuses on developing a neural network-based classifier to identify and distinguish between three visually similar tree species found in the university garden:
 
